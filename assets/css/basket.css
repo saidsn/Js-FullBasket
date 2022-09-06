@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbar-area .d-flex i{
+    font-size: 30px;
+    color:mediumslateblue;
+    margin-right: 20px;
+}
+.fa-solid{
+    font-size: 28px;
+    color: blue;
+    cursor: pointer;
+}
+.container h1{
+    text-align: center;
+}

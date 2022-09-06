@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#products h1{
+    text-align: center;
+    margin-top: 20px;
+}
+#navbar-area .d-flex i{
+    font-size: 30px;
+    color:mediumslateblue;
+    margin-right: 20px;
+}
+
+
